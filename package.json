@@ -1,0 +1,17 @@
+{
+  "name": "sprinf",
+  "version": "1.0.0",
+  "description": "replace %s",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "replace",
+    "%s"
+  ],
+  "author": "h_xingzhiyuan@163.com",
+  "license": "ISC"
+}
