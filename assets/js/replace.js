@@ -1,4 +1,4 @@
-var sprinf = function (str) {
+export default function sprintf(str) {
     var args = arguments,
         flag = true,
         i = 1;
